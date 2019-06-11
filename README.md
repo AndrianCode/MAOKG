@@ -1,6 +1,6 @@
 # MAOKG
 **Lab №1**
-![screen](https://github.com/AndrianCode/MAOKG/blob/master/maokg_lab1/lab1.png)
+![screen](https://github.com/AndrianCode/MAOKG/blob/master/maokg_lab1/lab1.PNG)
 **Lab №2**
 ![gif](https://github.com/AndrianCode/MAOKG/blob/master/maokg_lab2/lab2.gif)
 **Lab №3**
